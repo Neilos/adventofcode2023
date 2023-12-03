@@ -1,8 +1,6 @@
 # frozen_string_literal: true
 
 require 'rspec/core'
-require 'rubocop-rspec'
-require 'pry'
 
 require_relative 'digits_extractor'
 
