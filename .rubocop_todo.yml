@@ -18,4 +18,4 @@ Style/Documentation:
   Exclude:
     - 'spec/**/*'
     - 'test/**/*'
-    - 'day_1/digits_extractor.rb'
+    - '**/*'

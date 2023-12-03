@@ -4,3 +4,7 @@ require:
   - rubocop-rspec
 AllCops:
     NewCops: enable
+
+RSpec/ExampleLength:
+  Exclude:
+    - '**/*spec.rb'
